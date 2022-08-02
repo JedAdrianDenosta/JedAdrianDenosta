@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedadriandenosta&label=Profile%20views&color=0e75b6&style=flat" alt="jedadriandenosta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jedadriandenosta" alt="jedadriandenosta" /></a> </p>
-
 - 🔭 I’m currently working on my [Web Portfolio](https://jedadrian.vercel.app/)
 
 - 🌱 I’m currently learning **React, Next.js, Framer Motion**
