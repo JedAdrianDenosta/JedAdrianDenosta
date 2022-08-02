@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jedadriandenosta" alt="jedadriandenosta" /></a> </p>
 
-- 🔭 I’m currently working on [Web Portfolio](https://jedadrian.vercel.app/)
+- 🔭 I’m currently working on my [Web Portfolio](https://jedadrian.vercel.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Next.js, Framer Motion**
 
 - 👨‍💻 All of my projects are available at [https://jedadrian.vercel.app/](https://jedadrian.vercel.app/)
 
