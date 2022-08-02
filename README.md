@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **denostajedadrian@gmail.com**
 
-- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1MpeEtfQljjV19Z3vQRlPQmwcoNc9JMw1/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MpeEtfQljjV19Z3vQRlPQmwcoNc9JMw1/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
