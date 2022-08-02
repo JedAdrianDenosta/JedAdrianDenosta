@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
+</div>
+
 <h1 align="center">Hello 👋, I'm Jed Adrian Denosta</h1>
 <h3 align="center">A passionate UX/UI Designer, Front-end Developer, and Photographer from the Philippines.</h3>
 
